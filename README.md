@@ -3,4 +3,4 @@
 
 
 
-##### - The script requires a config file in order to be run. Nate has the main file if you need it, just ask. -
+##### - The script requires a config file in order to be run.
